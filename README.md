@@ -1,1 +1,1 @@
-d
+This database is useful for analyzing cost and cost variance of past and current IT projects and comparing aggregate data between federal agencies. Tables in the database include a table for major investment projects (major), a table for standard investment projects (standard), a table for non-major investment projects (non_major), and a table for all cabinet-level federal agencies with past or ongoing IT projects (departments). 
